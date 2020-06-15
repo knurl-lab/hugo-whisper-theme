@@ -1,4 +1,4 @@
-baseURL = "www.example.com"
+baseURL = "https://knurl-lab.github.io/hugo-whisper-theme/"
 languageCode = "en-us"
 title = "Hugo Whisper Theme"
 themesDir = "../.."
